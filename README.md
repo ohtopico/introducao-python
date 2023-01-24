@@ -3,7 +3,8 @@
 
 ## Estudo de Ciência de Dados
 - graficosbasicos.py - básico de gráficos com matplotlib
-- estudodecaso1.py - estudo de caso com gráficos básicos do matplotlib 
+- estudodecaso1.py - estudo de caso com gráficos básicos do matplotlib  
+  - usa populacao_brasileira.csv
 
 ## Outros
 - EntrevistasIcones.rar - Prints das respostas da Dinâmica dos Itens, feito na disciplina Interface Humano-Computador
