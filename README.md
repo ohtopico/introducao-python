@@ -1,5 +1,5 @@
 # Índice de arquivos
-<p> Repositório criado para documentação de estudos pessoais e testes com tecnologias novas para mim. </p>
+<p> Repositório criado para documentação de dos meus estudos. </p>
 
 ## Python
 - SorteioGenerosMusicais.py - Sorteio de gêneros músicais com uma lista coleta da Rate Your Music;
