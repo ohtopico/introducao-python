@@ -2,6 +2,9 @@ import cv2
 import os
 import shutil
 
+# --- Informações ---
+# O presente algoritmo faz a categorização de imagens com rosto e sem rosto e separa em duas pastas.
+
 # --- Configurações ---
 
 # Pasta que contém todas as fotos originais
